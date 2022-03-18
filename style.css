@@ -1,0 +1,20 @@
+.heading{
+    background-color:rgb(31, 189, 181);
+    margin-top:10px;
+    padding-top:7px;
+    padding-bottom:10px;
+    width:40%;
+    border-radius:5px;
+    color:white;
+    padding:10px;
+}
+.blorp{
+    font-size:18px;
+}
+body{
+    background-image: url("wp7043610.webp");
+    background-size:contain;
+}
+.white_text{
+    color:white;
+}
